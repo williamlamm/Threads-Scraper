@@ -8,5 +8,6 @@ limit: 50
 usernames:
   - zuck
   - mosseri
+  - xiaoba_knowledge
 # Optional cookie (can also be set via .env as THREADS_COOKIE)
 cookie: ""
